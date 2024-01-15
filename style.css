@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-image: url(./assets/purple\ technology.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+
+.container1 {
+    width: 603px;
+    position: absolute;
+    bottom: 60px;
+    margin-left: 60px;
+}
+
+#image {
+    display: inline-block;
+    width: 300px;
+    border: transparent;
+}
+
+
+.container2 {
+    display: inline-block;
+    position: absolute;
+}
+
+#botaoi {
+    height: 45px;
+    width: 304px;
+    display: block;
+    margin-top: 20px;
+    border: none;
+    
+}
+
+#botaol {
+    height: 45px;
+    width: 304px;
+    display: block;
+    margin-top: 20px;
+    border: none;
+}
