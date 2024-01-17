@@ -16,9 +16,9 @@ body {
 
 .container1 {
     width: 603px;
-    position: absolute;
-    bottom: 60px;
-    margin-left: 60px;
+    position: relative;
+    top: 500px;
+    margin-left: 150px;
 }
 
 #image {
